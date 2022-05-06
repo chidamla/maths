@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+
+# ignored directories
+.mvn/
+.settings/
+.vscode/
+workspace/
+target/
+Executables/
+node/
+
+# ignored files
+.project
+.classpath
+mvnw
+mvnw.cmd
+*.iml
+package-lock.json
+.factorypath
+.factorypath
+*.exe
