@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.pesil.main</groupId>
 	<artifactId>maths</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>war</packaging>
 
 	<properties>
@@ -21,7 +19,7 @@
 			scm:git:https://chidamla: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@github.com/chidamla/maths.git
 		</connection>
 		<url>https://github.com/chidamla/maths</url>
-		<tag>HEAD</tag>
+		<tag>maths-1.0</tag>
 	</scm>
 
 	<dependencies>
