@@ -5,7 +5,7 @@
 
 	<groupId>com.pesil.main</groupId>
 	<artifactId>maths</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>war</packaging>
 
 	<properties>
@@ -19,7 +19,7 @@
 			scm:git:https://chidamla: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@github.com/chidamla/maths.git
 		</connection>
 		<url>https://github.com/chidamla/maths</url>
-		<tag>HEAD</tag>
+		<tag>maths-1.0</tag>
 	</scm>
 
 	<dependencies>
