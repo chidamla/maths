@@ -8,6 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+// Changed for release 2.0
 //@WebServlet("/addition")
 public class additionServlet extends HttpServlet {
 	
