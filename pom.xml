@@ -5,7 +5,7 @@
 
 	<groupId>com.pesil.main</groupId>
 	<artifactId>maths</artifactId>
-	<version>5.6</version>
+	<version>5.7-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<properties>
@@ -22,7 +22,7 @@
 			scm:git:https://github.com/chidamla/maths.git
 		</developerConnection>
 		<url>https://github.com/chidamla/addition</url>
-		<tag>maths-5.6</tag>
+		<tag>maths-5.5</tag>
 	</scm>
 
 	<dependencies>
